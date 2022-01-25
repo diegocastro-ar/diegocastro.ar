@@ -4,8 +4,7 @@ title: About.Me
 permalink: /about/
 ---
 
-![I'M](https://diegocastro/assets/img/1579819582680.jpeg){:.centered}
-
+![Alt Text](_site/assets/img/1579819582680.jpeg){: .align-center}
 
 I am a simple computer fanatic since my first 486 was an exciting new machine. I've been messing around with hardware and software for most of my life.
 
