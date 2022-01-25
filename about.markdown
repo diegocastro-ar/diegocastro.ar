@@ -4,7 +4,7 @@ title: About.Me
 permalink: /about/
 ---
 
-![I'M](/assets/1579819582680.jpeg){:.centered}
+![I'M](/assets/img/1579819582680.jpeg){:.centered}
 
 I am a simple computer fanatic since my first 486 was an exciting new machine. I've been messing around with hardware and software for most of my life.
 
