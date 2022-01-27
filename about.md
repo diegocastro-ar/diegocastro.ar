@@ -36,4 +36,4 @@ I hope to keep this place fresh and informative…
 
 ## Skills
 
-ITSupport | Linux | Kubernetes | Docker | SRE | Google Kubernetes Engine | SQL | Git | Networking
+ITSupport | Linux | Proxmox | Kubernetes | Docker | SRE | Google Kubernetes Engine | SQL | Git | Networking
