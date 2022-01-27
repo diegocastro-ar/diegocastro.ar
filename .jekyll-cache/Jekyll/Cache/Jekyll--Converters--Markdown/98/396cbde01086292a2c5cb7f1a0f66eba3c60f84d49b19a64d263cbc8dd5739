@@ -1,0 +1,44 @@
+I"�	<p><img class="image image--sm circle border shadow" src="https://media-exp1.licdn.com/dms/image/C4E03AQH4PWABWQw0Og/profile-displayphoto-shrink_800_800/0/1579819582680?e=1648684800&amp;v=beta&amp;t=EIpNStlGnn5x_Yyj5xkYPgee_CQNDooaCVSp9EyNt3c" /> I am a simple computer fanatic since my first 486 was an exciting new machine. I’ve been messing around with hardware and software for most of my life.
+I am currently SysAdmin, but my beginnings were as a HelpDesk for several years, I have experience in networking, virtualization, hardware troubleshooting and automation of almost everything. I love Python, Bash scripting, and try to get hands-on experience of all the cool new and emerging technologies. I have been a Linux sysadmin for the last 10 years and a power user of Windows. I am self-taught and have a huge drive to keep learning.</p>
+
+<p>I am currently running Proxmox in my home lab where I do my experiments. Most of the inspiration for my articles comes from being able to have a lab of my own and I’m all for privacy respecting self-hosted apps.</p>
+
+<p>I hope to keep this place fresh and informative…</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Responsive</li>
+  <li>Semantic HTML</li>
+  <li>Skins</li>
+  <li>Highlight Theme</li>
+  <li>Internationalization</li>
+  <li>Search</li>
+  <li>Table of contents</li>
+  <li>Authors</li>
+  <li>Additional styles (alert, tag, image, icon, button, grid, etc)</li>
+  <li>Extensions (audios, videos, slides, demos)</li>
+  <li>Markdown enhancements (<a href="https://www.mathjax.org/">MathJax</a>, <a href="https://mermaidjs.github.io/">mermaid</a>, <a href="http://www.chartjs.org/">chartjs</a>)</li>
+  <li>Sharing (<a href="https://www.addtoany.com/">AddToAny</a>, <a href="https://www.addthis.com/">AddThis</a>)</li>
+  <li>Comments (<a href="https://disqus.com/">Disqus</a>, <a href="https://gitalk.github.io/">Gitalk</a>, <a href="https://valine.js.org/en/">Valine</a>)</li>
+  <li>Pageview (<a href="https://leancloud.cn/">LeanCloud</a>)</li>
+  <li>Analytics (<a href="https://analytics.google.com/analytics/web/">Google Analytics</a>)</li>
+  <li>RSS (<a href="https://github.com/jekyll/jekyll-feed">jekyll-feed</a>)</li>
+</ul>
+
+<table>
+  <tbody>
+    <tr>
+      <td>ITSupport</td>
+      <td>Linux</td>
+      <td>Kubernetes</td>
+      <td>Docker</td>
+      <td>SRE</td>
+      <td>Google Kubernetes Engine</td>
+      <td>Google Cloud</td>
+      <td>SQL</td>
+      <td>Git</td>
+    </tr>
+  </tbody>
+</table>
+:ET
