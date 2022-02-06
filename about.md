@@ -36,4 +36,9 @@ I hope to keep this place fresh and informative…
 
 ## Skills
 
-ITSupport | Linux | Proxmox | Kubernetes | Docker | SRE | Google Kubernetes Engine | SQL | Git | Networking
+ITSupport | Linux | Kubernetes | Docker | Proxmox | Google GKE | Google Cloud | SQL | GitHub| ESXi
+
+## Hobbies
+
+Mountain bike and running | Football (NFL) fan | Gaming (Counter-Strike, Call of Duty)
+
